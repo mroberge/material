@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="IE=edge" http-equiv="X-UA-Compatible">
+	<meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" name="viewport">
+	<title>hydrocloud test page</title>
+
+	<!-- css -->
+    <!-- be careful!  the Bootstrap glyphicons css undoes a bunch of my CSS, so list it here first -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="css/base.min.css" rel="stylesheet">
+
+	<!-- css for doc -->
+    <!-- you can't add bootstrap glyphicons down here because it overrides the local css. -->
+    <link href="css/project.min.css" rel="stylesheet">
+
+    <style>
+
+    </style>
+	
+	<!-- favicon -->
+	<!-- ... -->
+</head>
+<body class="page-brand">
+	<header class="header header-brand header-standard">
+		<ul class="nav nav-list pull-left">
+			<li>
+				<a data-toggle="menu" href="#doc_menu">
+					<span class="icon icon-lg">menu</span>
+				</a>
+			</li>
+		</ul>
+		<a class="header-logo margin-left-no" href="test-hydrocloud.html">HydroCloud</a>
+		<ul class="nav nav-list pull-right">
+			<li>
+				<a class="waves-attach" data-toggle="modal" href="#chat_modal"><span class="icon icon-lg">chat-bubble-outline</span></a>
+			</li>
+		</ul>
+	</header>
+	<nav aria-hidden="true" class="menu" id="doc_menu" tabindex="-1">
+		<div class="menu-scroll">
+			<div class="menu-content">
+				<a class="menu-logo" href="test-hydrocloud.html">HydroCloud</a>
+				<ul class="nav">
+					<li>
+						<a class="collaosed waves-attach" data-toggle="collapse" href="#doc_menu_mapping">
+                            <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                            Mapping</a>
+						<ul class="collapse menu-collapse" id="doc_menu_mapping">
+							<li>
+								<a class="waves-attach" href="#">Satellite</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Map</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Topography</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Show radar</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Radar transparency</a>
+							</li>
+							<li>
+                                <a class="waves-attach" href="#">Disable touch</a>
+							</li>
+							<li>
+                                <a class="waves-attach" href="#">Show watershed boundaries</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a class="waves-attach" href="#"><span class="icon">chat-bubble-outline</span>Chat</a>
+					</li>
+					<li>
+						<a class="collapsed waves-attach" data-toggle="collapse" href="#doc_menu_graphing">Graphing</a>
+						<ul class="collapse menu-collapse" id="doc_menu_graphing">
+							<li>
+								<a class="waves-attach" href="#">Avatars</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Icons</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Labels</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Navs</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Tiles</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a class="collapsed waves-attach" data-toggle="collapse" href="#doc_menu_settings">Settings</a>
+						<ul class="collapse menu-collapse" id="doc_menu_settings">
+							<li>
+								<a class="waves-attach" href="#">Start Date: 30 days ago</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">End Date: today</a>
+							</li>
+							<li>
+
+							</li>
+							<li>
+								<a class="waves-attach" href="#">15-minute</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Daily</a>
+							</li>
+							<li>
+								<a class="waves-attach" href="#">Precipitation</a>
+							</li>
+							<li>
+								Total Memory: xx MB
+							</li>
+							<li>
+								Memory per site: xx MB
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<main class="content">
+		Body  This element needs space so that stuff inside won't get hidden by the header or footer.
+	</main>
+
+	<footer class="footer">
+		Footer
+	</footer>
+
+	<!-- js -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="js/base.min.js"></script>
+
+	<!-- js for doc -->
+	<script src="js/project.min.js"></script>
+</body>
+</html>

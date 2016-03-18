@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4ace9547-29fd-4694-88a4-65cc007f7cf4" name="WebStorm" url="http://localhost:63342/material-gh-pages/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4d122a3b-6b69-4ed4-a827-7846a67ed8bd" name="WebStorm External" url="http://localhost:8080/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
