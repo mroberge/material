@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8f68907-0bf0-496e-80a6-35bea7e8ebcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project-notes.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-template.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test-hydrocloud.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/material-index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test-hc.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test-accordian.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-hc.html" afterPath="$PROJECT_DIR$/test-hc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-login.html" afterPath="$PROJECT_DIR$/page-login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project-notes.md" afterPath="$PROJECT_DIR$/project-notes.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-affix.html" afterPath="$PROJECT_DIR$/ui-affix.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-avatar.html" afterPath="$PROJECT_DIR$/ui-avatar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-button-fab.html" afterPath="$PROJECT_DIR$/ui-button-fab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-button.html" afterPath="$PROJECT_DIR$/ui-button.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-card.html" afterPath="$PROJECT_DIR$/ui-card.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-collapse.html" afterPath="$PROJECT_DIR$/ui-collapse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-data-table.html" afterPath="$PROJECT_DIR$/ui-data-table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-dialog.html" afterPath="$PROJECT_DIR$/ui-dialog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-dropdown-menu.html" afterPath="$PROJECT_DIR$/ui-dropdown-menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-icon.html" afterPath="$PROJECT_DIR$/ui-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-label.html" afterPath="$PROJECT_DIR$/ui-label.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-modal.html" afterPath="$PROJECT_DIR$/ui-modal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-nav-drawer.html" afterPath="$PROJECT_DIR$/ui-nav-drawer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-nav.html" afterPath="$PROJECT_DIR$/ui-nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-picker.html" afterPath="$PROJECT_DIR$/ui-picker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-progress.html" afterPath="$PROJECT_DIR$/ui-progress.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-selection-control.html" afterPath="$PROJECT_DIR$/ui-selection-control.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-snackbar.html" afterPath="$PROJECT_DIR$/ui-snackbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-tab.html" afterPath="$PROJECT_DIR$/ui-tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-text-field.html" afterPath="$PROJECT_DIR$/ui-text-field.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-tile.html" afterPath="$PROJECT_DIR$/ui-tile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-toolbar.html" afterPath="$PROJECT_DIR$/ui-toolbar.html" />
     </list>
     <ignored path="material-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,25 +52,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test-hc.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-hc.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="135" column="54" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
+            <state relative-caret-position="-241">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-notes.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="project-notes.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project-notes.md">
           <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+              <first_editor relative-caret-position="204">
+                <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -51,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codepoints" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/fonts/codepoints">
+      <file leaf-file-name="test-accordian.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-accordian.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="370" column="13" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
+            <state relative-caret-position="561">
+              <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -81,8 +108,11 @@
         <option value="$PROJECT_DIR$/../material-gh-pages/test-hydrocloud.html" />
         <option value="$PROJECT_DIR$/../material-gh-pages/test-hc.html" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/project-notes.md" />
         <option value="$PROJECT_DIR$/test-hc.html" />
+        <option value="$PROJECT_DIR$/js/project.min.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test-accordian.html" />
+        <option value="$PROJECT_DIR$/project-notes.md" />
       </list>
     </option>
   </component>
@@ -104,7 +134,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -137,6 +167,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="material" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,25 +299,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marty\Google Drive\WebstormProjects\material" />
       <recent name="C:\Users\Marty\Google Drive\WebstormProjects\material-gh-pages" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test-hc.html">
-    <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.test-accordian.html">
     <configuration default="false" name="test-topomap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test-topomap.html">
       <method />
-    </configuration>
-    <configuration default="false" name="localhost:8090/test-hydrocloud.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" uri="http://localhost:8090/test-hydrocloud.html">
-      <method>
-        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Node server 8090" />
-      </method>
     </configuration>
     <configuration default="false" name="ui-modal.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/ui-modal.html">
       <method />
     </configuration>
-    <configuration default="false" name="test-hc.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test-hc.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="material-index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/material-index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="test-accordian.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test-accordian.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -331,19 +374,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.localhost:8090/test-hydrocloud.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test-hc.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test-hc.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.localhost:8090/test-hydrocloud.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
       </list>
     </recent_temporary>
   </component>
@@ -383,16 +426,24 @@
       <workItem from="1458246411693" duration="3836000" />
       <workItem from="1458266173780" duration="5339000" />
       <workItem from="1458332627290" duration="646000" />
-      <workItem from="1458352497774" duration="3551000" />
+      <workItem from="1458352497774" duration="3646000" />
+      <workItem from="1458403256750" duration="2986000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added icons">
+      <created>1458356966451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458356966451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <option name="clearContext" value="false" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26570000" />
+    <option name="totallyTimeSpent" value="29651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,6 +452,7 @@
     <todo-panel id="all">
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
@@ -408,8 +460,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.395" sideWeight="0.50944716" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277592" sideWeight="0.36459062" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277592" sideWeight="0.63540936" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.49755073" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -417,12 +470,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -437,12 +490,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added icons" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-hc.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-notes.md">
+      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts/codepoints">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6290">
+          <caret line="370" column="13" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -485,10 +572,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -506,10 +594,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +623,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/material-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
@@ -548,10 +637,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/project.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ui-picker.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -632,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-topomap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -646,7 +722,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/material-index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="799">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="142" selection-end-column="10" />
@@ -696,6 +772,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="144" column="51" selection-start-line="144" selection-start-column="51" selection-end-line="144" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -704,6 +781,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2168">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,6 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="220" column="0" selection-start-line="220" selection-start-column="0" selection-end-line="222" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -729,8 +808,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/fonts/codepoints">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="6290">
           <caret line="370" column="13" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/project.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-accordian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -741,19 +844,11 @@
       </provider>
       <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+          <first_editor relative-caret-position="204">
+            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-hc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="135" column="54" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
