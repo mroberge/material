@@ -12,11 +12,9 @@ Project Notes
 TODO list
 ---------
  
-  *  TODO: Add a buffer space at the top of the body div so it is not hidden.
-  *  TODO: Collapse one menu item when another is open.
+    *  TODO: Collapse one menu item when another is open.
   *  TODO: Add checkboxes to some of the menu items.
   *  TODO: Fix header onto the chat page.
-  *  TODO: Add a floating button in the bottom right.
   *  TODO: Add a 'snackbar' system to the pages.
   *  TODO: Create a new favicon.ico file
   

@@ -7,15 +7,37 @@
 	<title>hydrocloud test page</title>
 
 	<!-- css -->
-    <!-- be careful!  the Bootstrap glyphicons css undoes a bunch of my CSS, so list it here first -->
-    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
     <link href="css/base.min.css" rel="stylesheet">
 
 	<!-- css for doc -->
-    <!-- you can't add bootstrap glyphicons down here because it overrides the local css. -->
     <link href="css/project.min.css" rel="stylesheet">
 
     <style>
+
+    /* new classes just for this document */
+     .margin-top-xl {
+         /*This keeps the main section from being hidden by the 57px header.*/
+         margin-top: 57px;
+     }
+
+     .margin-bottom-xl {
+         /*This keeps the main section from being hidden by the 57px footer. */
+         margin-bottom: 57px;
+     }
+      .fbtn-main {
+         /*This stupid class is to position the floatbutton 12px above the 57px footer, over the 'main' section. */
+         position: fixed;
+         bottom: 69px;
+     }
+     .show-fbtn-text {
+         /*This stupid class is just to show the floatbutton text as if it were being :hover'ed */
+         opacity: 1;
+         position: static;
+         padding-top: 2px;
+         padding-bottom: 2px;
+         width: auto;
+         height: auto;
+     }
 
     </style>
 	
@@ -72,7 +94,7 @@
 						</ul>
 					</li>
 					<li>
-						<a class="waves-attach" href="#"><span class="icon icon-lg text-brand">chat_bubble_outline</span>Chat</a>
+						<a class="waves-attach" data-toggle="modal" href="#chat_modal"><span class="icon icon-lg text-brand">chat_bubble_outline</span>Chat</a>
 					</li>
 					<li>
 						<a class="collapsed waves-attach" data-toggle="collapse" href="#doc_menu_graphing"><span class="icon icon-lg text-brand">timeline</span>Graphing</a>
@@ -128,18 +150,39 @@
 		</div>
 	</nav>
 
-	<main class="content">
-		Body  This element needs space so that stuff inside won't get hidden by the header or footer.
+	<main class="content margin-top-xl margin-bottom-xl">
+		Main
+        <p>text</p>
+        <p><a href="material-index.html">link to Material example pages</a></p>
+
 	</main>
 
 	<footer class="footer">
-		<span class="icon icon-3x text-brand pull-left">chevron_left</span>
-		<span class="icon icon-3x text-brand">language</span>
-		<span class="icon icon-3x text-brand">timeline</span>
-		<span class="icon icon-3x text-brand">list</span>
-		<span class="icon icon-3x text-brand">help</span>
-		<span class="icon icon-3x text-brand pull-right">chevron_right</span>
+		<a class="" href="#"><span class="icon icon-3x text-brand pull-left">chevron_left</span></a>
+        <a class="" href="#"><span class="icon icon-3x text-brand">language</span></a>
+        <a class="" href="#"><span class="icon icon-3x text-brand">timeline</span></a>
+        <a class="" href="#"><span class="icon icon-3x text-brand">list</span></a>
+        <a class="" href="#"><span class="icon icon-3x text-brand">help</span></a>
+        <a class="" href="#"><span class="icon icon-3x text-brand pull-right">chevron_right</span></a>
 	</footer>
+
+
+    <!-- Floatbutton -->
+    <div class="fbtn-container fbtn-main">
+        <div class="fbtn-inner">
+            <a class="fbtn fbtn-brand-accent" data-toggle="dropdown" href="#">
+               <span class="fbtn-text">Add sites with cursor</span>
+               <span class="fbtn-ori icon">location_searching</span>
+               <span class="fbtn-sub icon">add</span>
+            </a>
+            <div class="fbtn-dropdown">
+                <p class="fbtn-text show-fbtn-text" >Select sites with cursor<br>Add sites with + button</p>
+
+                <!-- add more floatbuttons here if wanted (? add precip site?)-->
+
+            </div>
+        </div>
+    </div>
 
 
 	<!-- Modals -->
