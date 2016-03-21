@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8f68907-0bf0-496e-80a6-35bea7e8ebcc" name="Default" comment="Added floatbuttons with some custom css; set margins so that main would not be hidden by header and footer.">
+    <list default="true" id="a8f68907-0bf0-496e-80a6-35bea7e8ebcc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="material-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,13 +80,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -432,7 +439,8 @@
       <workItem from="1458403256750" duration="20378000" />
       <workItem from="1458508038836" duration="598000" />
       <workItem from="1458578534997" duration="427000" />
-      <workItem from="1458579016463" duration="644000" />
+      <workItem from="1458579016463" duration="727000" />
+      <workItem from="1458580839276" duration="109000" />
     </task>
     <task id="LOCAL-00003" summary="Added icons">
       <created>1458356966451</created>
@@ -455,14 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1458441100639</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new hydrocloud favicon.ico">
+      <created>1458579685808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1458579685808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <option name="clearContext" value="false" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48712000" />
+    <option name="totallyTimeSpent" value="48904000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -479,8 +494,8 @@
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.35908803" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.640912" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.3571881" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.6428119" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -513,7 +528,8 @@
     <MESSAGE value="Added icons" />
     <MESSAGE value="Created a page to test an accordian system; made the hydrocloud page index.html; changed the front material page from index to material-index.html" />
     <MESSAGE value="Added floatbuttons with some custom css; set margins so that main would not be hidden by header and footer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added floatbuttons with some custom css; set margins so that main would not be hidden by header and footer." />
+    <MESSAGE value="Added new hydrocloud favicon.ico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new hydrocloud favicon.ico" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -724,7 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/myfirstserver.js" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/firstserver.js" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/my-static-server.js" />
@@ -845,6 +860,11 @@
           <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
