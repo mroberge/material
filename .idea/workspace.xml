@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8f68907-0bf0-496e-80a6-35bea7e8ebcc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-template.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test-hydrocloud.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/material-index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test-hc.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test-accordian.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-login.html" afterPath="$PROJECT_DIR$/page-login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project-notes.md" afterPath="$PROJECT_DIR$/project-notes.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-affix.html" afterPath="$PROJECT_DIR$/ui-affix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-avatar.html" afterPath="$PROJECT_DIR$/ui-avatar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-button-fab.html" afterPath="$PROJECT_DIR$/ui-button-fab.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-button.html" afterPath="$PROJECT_DIR$/ui-button.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-card.html" afterPath="$PROJECT_DIR$/ui-card.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-collapse.html" afterPath="$PROJECT_DIR$/ui-collapse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-data-table.html" afterPath="$PROJECT_DIR$/ui-data-table.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-dialog.html" afterPath="$PROJECT_DIR$/ui-dialog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-dropdown-menu.html" afterPath="$PROJECT_DIR$/ui-dropdown-menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-icon.html" afterPath="$PROJECT_DIR$/ui-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-label.html" afterPath="$PROJECT_DIR$/ui-label.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-modal.html" afterPath="$PROJECT_DIR$/ui-modal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-nav-drawer.html" afterPath="$PROJECT_DIR$/ui-nav-drawer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-nav.html" afterPath="$PROJECT_DIR$/ui-nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-picker.html" afterPath="$PROJECT_DIR$/ui-picker.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-progress.html" afterPath="$PROJECT_DIR$/ui-progress.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-selection-control.html" afterPath="$PROJECT_DIR$/ui-selection-control.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-snackbar.html" afterPath="$PROJECT_DIR$/ui-snackbar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-tab.html" afterPath="$PROJECT_DIR$/ui-tab.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-text-field.html" afterPath="$PROJECT_DIR$/ui-text-field.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-tile.html" afterPath="$PROJECT_DIR$/ui-tile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui-toolbar.html" afterPath="$PROJECT_DIR$/ui-toolbar.html" />
     </list>
     <ignored path="material-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,25 +24,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="ui-button-fab.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ui-button-fab.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
-              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+            <state relative-caret-position="4284">
+              <caret line="252" column="113" selection-start-line="252" selection-start-column="77" selection-end-line="252" selection-end-column="113" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project-notes.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/project.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/base.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="19509" selection-start-line="0" selection-start-column="19495" selection-end-line="0" selection-end-column="19509" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-notes.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project-notes.md">
-          <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="204">
-                <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <first_editor relative-caret-position="289">
+                <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,10 +73,27 @@
       <file leaf-file-name="test-accordian.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-accordian.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="1275">
               <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/favicon.ico">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -110,9 +119,9 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test-hc.html" />
         <option value="$PROJECT_DIR$/js/project.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/test-accordian.html" />
         <option value="$PROJECT_DIR$/project-notes.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -122,10 +131,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="24" />
-    <option name="width" value="1466" />
-    <option name="height" value="755" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -152,6 +161,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,17 +292,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,7 +301,7 @@
     <property name="recentsLimit" value="5" />
     <property name="javascript.nodejs.core.library.configured.version" value="unknown-1455053214000" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../material-gh-pages/test-hydrocloud2.html" />
@@ -303,10 +312,7 @@
       <recent name="C:\Users\Marty\Google Drive\WebstormProjects\material-gh-pages" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.test-accordian.html">
-    <configuration default="false" name="test-topomap.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test-topomap.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="ui-modal.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/ui-modal.html">
       <method />
     </configuration>
@@ -317,6 +323,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test-accordian.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material-gh-pages/test-accordian.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -374,19 +383,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test-topomap.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test-accordian.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.material-index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.ui-modal.html" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +436,11 @@
       <workItem from="1458266173780" duration="5339000" />
       <workItem from="1458332627290" duration="646000" />
       <workItem from="1458352497774" duration="3646000" />
-      <workItem from="1458403256750" duration="2986000" />
+      <workItem from="1458403256750" duration="20378000" />
+      <workItem from="1458508038836" duration="598000" />
+      <workItem from="1458578534997" duration="427000" />
+      <workItem from="1458579016463" duration="727000" />
+      <workItem from="1458580839276" duration="109000" />
     </task>
     <task id="LOCAL-00003" summary="Added icons">
       <created>1458356966451</created>
@@ -436,16 +449,37 @@
       <option name="project" value="LOCAL" />
       <updated>1458356966451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created a page to test an accordian system; made the hydrocloud page index.html; changed the front material page from index to material-index.html">
+      <created>1458410817147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1458410817147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added floatbuttons with some custom css; set margins so that main would not be hidden by header and footer.">
+      <created>1458441100639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1458441100639</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added new hydrocloud favicon.ico">
+      <created>1458579685808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1458579685808</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <option name="clearContext" value="false" />
     <option name="createChangelist" value="false" />
     <option name="createBranch" value="false" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29651000" />
+    <option name="totallyTimeSpent" value="48904000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -456,27 +490,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="24" width="1466" height="755" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277592" sideWeight="0.36459062" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277592" sideWeight="0.63540936" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24952501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.3571881" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746186" sideWeight="0.6428119" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.49755073" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.395" sideWeight="0.49055284" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.49755073" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -492,7 +526,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added icons" />
+    <MESSAGE value="Created a page to test an accordian system; made the hydrocloud page index.html; changed the front material page from index to material-index.html" />
+    <MESSAGE value="Added floatbuttons with some custom css; set margins so that main would not be hidden by header and footer." />
+    <MESSAGE value="Added new hydrocloud favicon.ico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new hydrocloud favicon.ico" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -525,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6290">
           <caret line="370" column="13" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,13 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="79" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html" />
     <entry file="file://$PROJECT_DIR$/node_modules/node-static/README.md">
       <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -565,13 +595,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/my-static-server.js" />
-    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html" />
     <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -587,13 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html" />
     <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -645,24 +663,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/base.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/project.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -736,7 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/favicon.ico" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/myfirstserver.js" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/firstserver.js" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/my-static-server.js" />
@@ -768,28 +771,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="144" column="51" selection-start-line="144" selection-start-column="51" selection-end-line="144" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html" />
     <entry file="file://$PROJECT_DIR$/../material-gh-pages/test-hydrocloud.html___jb_tmp___" />
-    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2168">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test-hydrocloud.html" />
     <entry file="file://$PROJECT_DIR$/ui-modal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="220" column="0" selection-start-line="220" selection-start-column="0" selection-end-line="222" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6290">
           <caret line="370" column="13" selection-start-line="370" selection-start-column="13" selection-end-line="370" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,39 +805,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-accordian.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="1275">
           <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/base.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="19509" selection-start-line="0" selection-start-column="19495" selection-end-line="0" selection-end-column="19509" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project-notes.md">
-      <provider selected="true" editor-type-id="MultiMarkdownFxPreviewEditor">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
       </provider>
-      <provider editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MultiMarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/project.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui-button-fab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="252" column="113" selection-start-line="252" selection-start-column="77" selection-end-line="252" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
