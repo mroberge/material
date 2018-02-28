@@ -57,7 +57,9 @@
 		<a class="header-logo margin-left-no" href="index.html">HydroCloud</a>
 		<ul class="nav nav-list pull-right">
 			<li>
-				<a class="waves-attach" data-toggle="modal" href="#chat_modal"><span class="icon icon-lg">chat_bubble_outline</span></a>
+				<!--<button onclick="TogetherJS(this); return false;">Start TogetherJS</button>-->
+				<a class="waves-attach" id="start-togetherjs" href="" onclick="TogetherJS(this); return false;"><span class="icon icon-lg">chat_bubble_outline</span></a>
+				<!--<a class="waves-attach" data-toggle="modal" href="#chat_modal"><span class="icon icon-lg">chat_bubble_outline</span></a>-->
 			</li>
 		</ul>
 	</header>
@@ -94,9 +96,9 @@
 							</li>
 						</ul>
 					</li>
-					<li>
+<!--					<li>
 						<a class="waves-attach" data-toggle="modal" href="#chat_modal"><span class="icon icon-lg text-brand">chat_bubble_outline</span>Chat</a>
-					</li>
+					</li>-->
 					<li>
 						<a class="collapsed waves-attach" data-toggle="collapse" href="#doc_menu_graphing"><span class="icon icon-lg text-brand">timeline</span>Graphing</a>
 						<ul class="collapse menu-collapse" id="doc_menu_graphing">
@@ -202,6 +204,14 @@
 	<!-- js -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<script src="js/base.min.js"></script>
+	<script>
+		var TogetherJSConfig_cloneClicks = true;
+		var TogetherJSConfig_findRoom = "hydrocloud_users";
+		var TogetherJSConfig_suppressJoinConfirmation = true;
+		var TogetherJSConfig_includeHashInUrl = true;
+		// more config...
+	</script>
+	<script src="https://togetherjs.com/togetherjs-min.js"></script>
 
 	<!-- js for doc -->
 	<script src="js/project.min.js"></script>
