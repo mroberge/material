@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8f68907-0bf0-496e-80a6-35bea7e8ebcc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="material-gh-pages.iws" />
@@ -43,8 +42,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="218" column="7" selection-start-line="218" selection-start-column="7" selection-end-line="218" selection-end-column="7" />
+            <state relative-caret-position="185">
+              <caret line="208" column="47" selection-start-line="208" selection-start-column="47" selection-end-line="208" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -395,7 +394,7 @@
       <workItem from="1458578534997" duration="427000" />
       <workItem from="1458579016463" duration="727000" />
       <workItem from="1458580839276" duration="109000" />
-      <workItem from="1519934479354" duration="110000" />
+      <workItem from="1519934479354" duration="807000" />
     </task>
     <task id="LOCAL-00003" summary="Added icons">
       <created>1458356966451</created>
@@ -432,7 +431,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49014000" />
+    <option name="totallyTimeSpent" value="49711000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -816,8 +815,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="218" column="7" selection-start-line="218" selection-start-column="7" selection-end-line="218" selection-end-column="7" />
+        <state relative-caret-position="185">
+          <caret line="208" column="47" selection-start-line="208" selection-start-column="47" selection-end-line="208" selection-end-column="47" />
           <folding />
         </state>
       </provider>
